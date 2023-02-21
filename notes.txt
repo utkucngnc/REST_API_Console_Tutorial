@@ -1,0 +1,5 @@
+DO NOT FORGET MIGRATIONS:
+
+$ Add-Migration createdatabase -o PATH/TO/MIGRATIONS
+
+$Update-Database
